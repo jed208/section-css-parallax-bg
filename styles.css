@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.margin {
+  margin: 75% 0;
+}
+
+.parallax {
+  background: url('bg.jpg') repeat fixed 100%;
+}
+.parallax-inner {
+  padding-top: 30%;
+  padding-bottom: 30%;
+}
+h1 {
+  text-align: center;
+  font-size: 92px;
+  color: #888888;
+  letter-spacing: 16px;
+}
