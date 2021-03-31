@@ -1,2 +1,2 @@
-# section-css-parallax-bg
-Simple HTML and CSS to have fixed background section while scrolling.
+# Parallax Background
+Simple HTML and CSS code to have a section with a fixed background while scrolling.
