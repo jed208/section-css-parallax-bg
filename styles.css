@@ -7,11 +7,15 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.margin {
-  margin: 75% 0;
+.sec-1,
+.sec-3 {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.parallax {
+.sec-2.parallax {
   background: url('bg.jpg') repeat fixed 100%;
 }
 .parallax-inner {
