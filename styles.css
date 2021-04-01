@@ -17,6 +17,7 @@
 
 .sec-2.parallax {
   background: url('bg.jpg') repeat fixed 100%;
+  height: 100vh;
 }
 .parallax-inner {
   padding-top: 30%;
